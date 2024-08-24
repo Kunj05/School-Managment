@@ -3,7 +3,8 @@
 
 ## Overview
 
-This School Management System provides APIs for managing and interacting with school data. It utilizes Node.js, Express.js, and MySQL, hosted on AWS RDS for database management.
+This School Management System provides APIs for managing and interacting with school data. It utilizes Node.js and Express.js for the backend, with MySQL hosted on Railway for database management. The Node.js backend is deployed on Render, ensuring reliable performance and accessibility.
+
 
 ### Endpoint
 ### 1. Add School
